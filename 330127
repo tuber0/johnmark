@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head> 
+     <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles.css"> 
+     <script defer src="script.js">
+</script> 
+     <title>Audio and Lyrics Website</title>
+
+ 
+
+</head> 
+<body bgcolor="grey"  > 
+ <h1>
+<img src="photo/photo1.jpg" alt="album photo" >
+</h1>
+    <!-
+• Your content will go here -->
+
+
+<!-
+• Your content will go here --> 
+<section class="audio-section">
+
+    <audio controls> 
+         <source src="audio/123 Pikit-Swabe Maria.mp3" type="audio/mp3">
+
+        Your browser does not support the audio element. 
+     </audio> 
+</section>
+
+
+<!-
+• Your content will go here --> 
+<section class="lyrics-section">
+
+    <div class="lyrics-container"> 
+   <hr3>SWABE MARIA-123 PIKIT</hr3>   
+   
+   <h2>Song Lyrics</h2>
+
+        <ul> 
+             <li>Verse 1:<br>
+Eto na naman tayo
+Tatakas sa mundo
+<br>Lumutang na ang isip ko
+<br>Nasasabik sa'yo
+<br>Bahala na basta
+<br>Wala ng atrasan pa
+<br>Kahit saan man mapunta
+<br>Basta't kasama ka
+<br>
+<br>
+<br>Hindi na bale kung hindi nila sakay
+<br>Pagkat hindi na mababali ang ligaya kong taglay
+<br>Tila ba nakaangat walang katulad ang nadarama
+<br>Pag nandiyan ka humihiwalay sa pagkalumbay
+Kasabay ng hangin
+</li>
+<br>
+<br>
+
+            <li>Chorus:<br>
+            <br> Kahit na husgahang sablay
+           <br> Ipilit man nilang maling mali ito
+           <br> Binigyan mo naman ng kulay
+            <br>Ang kumukupas kong mundo
+          <br>  Hindi na dapat mag-alala
+         <br>   Kahit na anong sabihin nila
+         <br>   Mahal kita
+            Sagad hanggang buto
+          <br>  Lumilipad ako sa piling mo
+          
+          </li>
+<br>
+<br>
+            <li>Verse 2: <br>
+           <br> Dito sating daigdig
+          <br>  Banayad ang himig
+        <br>    Dito sating daigdig
+         <br>   Tila nasa langit
+          <br>  Hindi na bale kung hindi nila sakay
+         <br>   Pagkat hindi na mababali ang ligaya kong taglay
+         <br>   Tila ba nakaangat walang katulad ang nadarama
+          <br>  Pag nandiyan ka humihiwalay sa pagkalumbay
+            Kasabay ng hangin</li> 
+        <br>
+<br>     <li>
+Chorus: <br>
+<br>Kahit na husgahang sablay
+<br>Ipilit man nilang maling mali ito
+<br>Binigyan mo naman ng kulay
+<br>Ang kumukupas kong mundo
+<br>Hindi na dapat mag-alala
+<br>Kahit na anong sabihin nila
+<br>Mahal kita
+Sagad hanggang buto
+<br>Lumilipad ako sa piling mo
+<br>
+<br>Kahit na husgahang sablay
+<br>Ipilit man nilang maling mali ito
+<br>Binigyan mo naman ng kulay
+<br>Ang kumukupas kong mundo
+<br>Hindi na dapat mag-alala
+<br>Kahit na anong sabihin nila
+<br>Mahal kita
+Sagad hanggang buto
+<br>Lumilipad ako sa piling mo
+Sa piling mo
+
+
+</li>
+         </ul>
+
+    </div> 
+</section>
+
+
+</body> 
+</html>
